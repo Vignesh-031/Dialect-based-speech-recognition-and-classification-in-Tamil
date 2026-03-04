@@ -10,7 +10,7 @@ This repository contains the implementation of our system submitted to the **Sha
 - A Dileep Ram
 - S Madhu Vishahan
 - TT Pranesh
-- KK Tamizh Mathi
+- KK Thamizh Mathi
 - S Vigneshwaran  
  
 
